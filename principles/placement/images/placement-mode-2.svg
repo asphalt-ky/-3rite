@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="38.249999408512245mm"
+   height="50.25604276232732mm"
+   viewBox="0 0 38.249999408512245 50.25604276232732"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="placement-mode-2.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     type="text/css"
+     id="style1">
+      .draw-line { stroke: #000000; }
+      @media (prefers-color-scheme: dark) {
+      .draw-line { stroke: #ffffff; }
+      }
+  </style>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.3065302"
+     inkscape:cx="72.21591"
+     inkscape:cy="95.088152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="Part__Part2DObjectPython"
+     transform="translate(19.124999,20.177622) scale(1,-1)">
+    <circle
+       cx="14.999406104481677"
+       cy="-8.659908872984122"
+       r="2.5"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle1" />
+    <circle
+       cx="-15.000591"
+       cy="-8.659918"
+       r="2.5000025276589217"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle2" />
+    <circle
+       cx="-0.0005940000000001806"
+       cy="17.320849965541967"
+       r="2.5"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle3" />
+    <path
+       id="Part__Part2DObjectPython_w0003"
+       d="M -13.342836 -6.788592 L -0.7923259999999975 14.949529565390183 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0004"
+       d="M 0.7911379999999987 14.949529565390185 L 13.341647999999994 -6.788588999999996 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0005"
+       d="M 12.549915723401135 -8.159911999999993 L 5.288477482290912 -8.159911999999995 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0006"
+       d="M 12.54991700000002 -9.159911999999997 L 5.865827741260206 -9.159911999999997 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0007"
+       d="M -14.208862 -6.288593933395016 L -1.6583520000000043 15.449529999999992 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0008"
+       d="M 1.6571640000000016 15.449529999999998 L 14.207674000000035 -6.288588507716481 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0009"
+       d="M -12.708729 -23.012162847041225 L -1.4252449999999994 -3.468598729765332 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0010"
+       d="M 1.425246 -3.46859790796621 L 12.708729 -23.012164 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0011"
+       d="M 11.283483092901584 -25.480762 L -11.283482 -25.480762 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0012"
+       d="M 11.283483 -26.480762 L -11.283482000000003 -26.480762 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0013"
+       d="M -13.574753 -22.512163823945546 L -2.291272000000001 -2.968598 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0014"
+       d="M 2.291271 -2.968598 L 13.574754 -22.51216418830257 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <circle
+       cx="-4.999999852963314e-07"
+       cy="1.3940653056267386e-07"
+       r="3.75"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle4" />
+    <circle
+       cx="15.000000233280419"
+       cy="-25.98076234527031"
+       r="3.75"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle5" />
+    <circle
+       cx="-14.999999186829628"
+       cy="-25.980762"
+       r="3.75"
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none"
+       id="circle6" />
+    <path
+       id="Part__Part2DObjectPython_w0018"
+       d="M -5.288478006913245 -8.159911999999998 L -12.551099902187026 -8.159912 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0019"
+       d="M -5.865828174310794 -9.159911999999998 L -12.551097452699866 -9.159912 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0020"
+       d="M 4.133777419283833 -8.159911999999997 L -4.1337764585423145 -8.159911999999998 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="Part__Part2DObjectPython_w0021"
+       d="M 4.711127681097071 -9.159911999999997 L -4.711126829861013 -9.159911999999998 "
+       class="draw-line"
+       stroke-width="0.7 px"
+       style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;fill-opacity:1;fill-rule:evenodd" />
+    <title
+       id="title6">b'Part__Part2DObjectPython'</title>
+  </g>
+</svg>
