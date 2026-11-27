@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
+.markdown-body img[src$=".svg"] {
+  background-color: transparent;
+  color-scheme: light dark;
+}
+
 @media (prefers-color-scheme: dark) {
   body { background-color: #0d1117; }
   .markdown-body { color: #e6edf3; }
