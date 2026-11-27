@@ -1,0 +1,6 @@
+remote_theme: pages-themes/primer@master
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+kramdown:
+  math_engine: null
